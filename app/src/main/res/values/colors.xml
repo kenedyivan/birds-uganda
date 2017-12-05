@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8BC34A</color>
+    <color name="colorPrimaryDark">#558B2F</color>
+    <color name="colorAccent">#FFA000</color>
+    <color name="price">#FFA000</color>
+    <color name="light_background">#ffffffff</color>
+    <color name="dark_background">#ff000000</color>
+    <color name="foreground1">#ff000000</color>
+    <color name="light_foreground1">#ffeeeeee</color>
+    <color name="dark_foreground1">#ff000000</color>
+    <color name="album_title">#4c4c4c</color>
+
+    <color name="separator_line">#b6b6b6</color>
+    <color name="title">#222222</color>
+    <color name="subtitle">#999999</color>
+    <color name="light_text">#ffffffff</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
